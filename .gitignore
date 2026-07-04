@@ -1,0 +1,12 @@
+# Visual Studio 2015 user specific files
+.vs/
+.vscode/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+x64/*
+SFML_Box.67ba9508/*
